@@ -65,7 +65,7 @@ _Note: Update the folder structure if your actual project contains additional fi
 ### 1. Clone the Repository
 
 ```bash
-git clone YOUR_GITHUB_REPOSITORY_URL
+git clone https://github.com/Akshada0206/Alumni-Student-Platform.git
 ```
 
 ### 2. Navigate to the Project
